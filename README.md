@@ -12,3 +12,8 @@ Armv6-M Archtecture Reference Manual
 Arm Debug Interface Architecture Specification: ADIv5.0 to ADIv5.2
 
 CoreSight Technical Introduction : A quickstart for designers, 2013
+
+RP2040 Datasheet : A Microcontroller by Raspberry Pi
+
+Getting started with Raspberry Pi Pico : C/C++ development with Raspberry Pi pico and other RP2040-based microcontroller boards
+
